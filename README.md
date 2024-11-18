@@ -17,4 +17,4 @@ Este projeto te convida a embarcar em uma deliciosa aventura culinária!  O Busc
 ## Interface do site
 Aqui está uma representação da interface do site!
 
-![Captura de tela_17-9-2024_21948_127 0 0 1](https://github.com/user-attachments/assets/b5e36623-2792-4a68-b562-45aee6a264c0)
+![image](https://github.com/user-attachments/assets/aaecf0e3-b72c-45d0-b4d1-09deca9cce3f)
